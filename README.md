@@ -19,9 +19,6 @@ Install package with pip
 
 ```
     
-## Deployment
-
-To deploy this project run
 
 ## 
 
